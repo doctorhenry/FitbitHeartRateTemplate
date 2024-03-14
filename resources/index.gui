@@ -1,0 +1,8 @@
+<svg viewport-fill="yellow">  
+  <text class="sensor-label"> Cardia </text>
+  <text id="hrm-label" class="sensor-label">heart rate</text>
+  <text id="hrm-data" class="sensor-data">{ ... }</text>
+  <text id="console-label" class="sensor-label">console dump</text>
+  <text id="console-data" class="sensor-data">{ ... }</text>
+  <text class="sensor-label">This is Fibit 1 for Cardia</text>
+</svg>
