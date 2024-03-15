@@ -16,4 +16,4 @@ The FitBitGame is part of a three stage solution. This repo consits of the app t
 ## How do you connect from the watch to the Internet?
 I use PieHost. A cloud websocket service. The phone app (companion) sends data gathered from the FitBit over the Internet (PieHost).
 
-Last Edited: 15/03/2024
+Last Edited: 15/03/2024 :)
